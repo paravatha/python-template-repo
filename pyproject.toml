@@ -10,7 +10,7 @@ authors = []
 dependencies = [
     "pydantic~=2.12.5",
     "python-dateutil>=2.9.0,<3",
-    "pytest-dotenv>=0.5.2,<0.6",
+    "pytest-dotenv~=0.5.2",
 ]
 
 # Development dependencies of the project.
@@ -23,11 +23,10 @@ dev = [
     "ty~=0.0.23",
     "pytest-asyncio~=1.3.0",
     "pytest-cov~=7.0.0",
-    "setuptools~=80.9.0",
+    "setuptools~=82.0.1",
     "nbstripout~=0.9.1",
     "prek~=0.3.5"
 ]
-
 
 [tool.uv]
 package = false
