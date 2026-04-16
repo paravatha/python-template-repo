@@ -4,4 +4,4 @@ updates:
     directory: "/" # Location of your requirements.txt or pyproject.toml
     schedule:
       interval: "daily" # Options: daily, weekly, monthly
-    open-pull-requests-limit: 5 # Prevent PR spam
+    open-pull-requests-limit: 5 # Prevent PRspam
