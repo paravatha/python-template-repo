@@ -8,7 +8,7 @@ readme = "README.md"
 authors = []
 
 dependencies = [
-    "pydantic~=2.13.1",
+    "pydantic~=2.13.2",
     "python-dateutil>=2.9.0,<3",
     "pytest-dotenv~=0.5.2",
 ]
